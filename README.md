@@ -1,16 +1,16 @@
-﻿# js-help-notes
+as'dgjweogjsd'fpg# js-help-notes
 
 ## let :
 
-`let` allows you to declare block-level variables. The declared variable is available from the block it is enclosed in.
+`let` allows you togfsdfsdh declare block-level variables. The declared variable is available from the block it is enclosed in.
 
-## const :
-
-`const` allows you to declare variables whose values are never intended to change. The variable is available from the block it is declared in.
-
-## var :
-
-A variable declared with the `var` keyword is available from the written out function (as opposed to an anonymous function) it is declared in.
+## const :fsdgdsfb
+dfsbsdfs
+`const` asdfgsdgsgbllows you to declare variables whose values are never intended to change. The variable is available from the block it is debsdclared in.
+dfg
+##dfg var :
+sdgsd
+A varibsdghable declared with the `var` keyword is available from the written out function (as opposed to an anonymous function) it is declared in.
 
 ## while loop :
 
@@ -72,7 +72,7 @@ switch (a) {
   case 1: // fallthrough
   case 2:
     eatIt();
-    break;
+    break;FQWTRASDFWEE
   default:
     doNothing();
 }
